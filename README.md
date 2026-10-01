@@ -12,6 +12,18 @@ Still learning. Still building. Still breaking shit.
 
 ## About Me
 
+```text
+Name       David Zamora
+Role       Junior Web Developer
+Education  BSIT
+Location   Philippines
+Focus      Web Development
+Backend    PHP / MySQL
+Frontend   HTML / CSS / JavaScript
+Framework  Laravel
+Tools      Git / GitHub / XAMPP
+```
+
 I'm a self taught Junior Web Developer and BSIT student from the Philippines.
 
 My main focus is **web development**, especially backend development with PHP and MySQL, while continuing to improve my frontend skills and overall application architecture.
