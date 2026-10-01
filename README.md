@@ -58,6 +58,8 @@ Custom CMS Systems
 
 **My personal developer platform and portfolio.**
 
+<img src="./assets/dadevdomain.png" width="100%">
+
 A full stack web platform with a custom CMS, project management, GitHub API integration, visitor analytics, contact inbox, file management, search and filtering, and responsive UI.
 
 **PHP · MySQL · JavaScript · HTML · CSS**
@@ -69,6 +71,8 @@ A full stack web platform with a custom CMS, project management, GitHub API inte
 ### Unsaid
 
 **Anonymous Messaging Web Application**
+
+<img src="./assets/unsaid.png" width="100%">
 
 A nickname based anonymous messaging platform with attachments, reporting, moderation, printable messages, and administrative controls.
 
@@ -82,6 +86,8 @@ A nickname based anonymous messaging platform with attachments, reporting, moder
 
 **AI Chatbot Web Application**
 
+<img src="./assets/nigai.png" width="100%">
+
 An API integrated AI chatbot built with PHP and JavaScript, featuring a responsive chat interface, theme support, code blocks, copy actions, chat controls, and loading states.
 
 **PHP · JavaScript · HTML · CSS · AI API**
@@ -93,6 +99,8 @@ An API integrated AI chatbot built with PHP and JavaScript, featuring a responsi
 ### Nigallery
 
 **Vanilla JavaScript Image Gallery**
+
+<img src="./assets/nigallery.png" width="100%">
 
 A lightweight gallery project built with vanilla JavaScript.
 
@@ -110,15 +118,19 @@ Some of the other things I've built:
 
 **Weather Weather Lang**
 Weather dashboard powered by Open Meteo and Vanilla JavaScript.
+<img src="./assets/weatherchecker.png" width="100%">
 
 **Zound**
 Local music player for playing your own music without ads or subscriptions.
+<img src="./assets/zound.png" width="100%">
 
 **AMW**
 An experimental anonymous messaging project.
+<img src="./assets/amw.png" width="100%">
 
 **Kapebilidad**
 A PHP cafe ordering system that somehow became an entire web application.
+<img src="./assets/kapebilidad.png" width="100%">
 
 [View all repositories](https://github.com/LilBuffy?tab=repositories)
 
