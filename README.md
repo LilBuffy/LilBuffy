@@ -20,7 +20,7 @@ Location   Philippines
 Focus      Web Development
 Backend    PHP / MySQL
 Frontend   HTML / CSS / JavaScript
-Framework  Laravel
+Learning   Laravel / Tailwind CSS
 Tools      Git / GitHub / XAMPP
 ```
 
@@ -128,26 +128,26 @@ A PHP cafe ordering system that somehow became an entire web application.
 
 ### Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend & Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP%20PDO-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%20PDO-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square\&logo=xampp\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
 ### Learning
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -193,11 +193,9 @@ Built and maintained **10+ personal and academic web projects**, including datab
 
 ## GitHub Stats
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilBuffy\&show_icons=true\&hide_border=true\&theme=transparent)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilBuffy&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilBuffy\&layout=compact\&hide_border=true\&theme=transparent)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LilBuffy&layout=compact&hide_border=true&theme=transparent)
 
 ## Find Me
 
