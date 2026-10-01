@@ -100,7 +100,7 @@ Because apparently opening a folder full of images wasn't good enough.
 
 **JavaScript · HTML · CSS**
 
-[Repository](https://github.com/LilBuffy/Nigallery)
+[Live Website](https://lilbuffy.github.io/Nigallery/)
 
 ---
 
