@@ -13,9 +13,9 @@ Still learning. Still building. Still breaking shit.
 ## About Me
 
 ```text
-Name       David Zamora
+Name       John David Zamora
 Role       Junior Web Developer
-Education  BSIT
+Education  2nd Year BSIT Student
 Location   Philippines
 Focus      Web Development
 Backend    PHP / MySQL
@@ -163,9 +163,7 @@ Git & GitHub
 Modern Web Development
 ```
 
-The goal isn't to collect technologies.
-
-It's to understand them well enough to build something useful.
+The goal isn't to collect technologies. It's to understand them well enough to build something useful nganiiiiiiii.
 
 ---
 
