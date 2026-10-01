@@ -1,58 +1,42 @@
 # David Zamora
 
-### Junior Web Developer · BSIT Student · PHP Enjoyer
+### Junior Web Developer · BSIT Student
 
-I build web applications, break them, fix them, and occasionally wonder why PHP decided to do that.
+I build practical web applications, mostly with **PHP, MySQL, JavaScript, HTML, and CSS**.
 
-I'm a self taught Junior Web Developer and BSIT student focused on building practical, database driven web applications using **PHP, MySQL, JavaScript, HTML, and CSS**.
+I started with simple websites, then somehow ended up building databases, admin panels, APIs, anonymous messaging systems, AI chatbots, galleries, and entire platforms.
 
-I like building things from scratch, experimenting with weird ideas, turning school projects into actual applications, and learning by making stuff that actually works.
-
-Currently going deeper into **Laravel, modern frontend development, web security, and better software architecture.**
+Still learning. Still building. Still breaking shit.
 
 ---
 
 ## About Me
 
-```text
-Name       David Zamora
-Role       Junior Web Developer
-Education  BSIT
-Location   Philippines
-Focus      Web Development
-Backend    PHP / MySQL
-Frontend   HTML / CSS / JavaScript
-Framework  Laravel
-Tools      Git / GitHub / XAMPP
-```
+I'm a self taught Junior Web Developer and BSIT student from the Philippines.
 
-I started with basic web development and slowly went deeper into backend development, databases, CRUD systems, APIs, deployment, and full web applications.
+My main focus is **web development**, especially backend development with PHP and MySQL, while continuing to improve my frontend skills and overall application architecture.
 
-I am still learning, but I'm not just collecting tutorials.
+I've built and maintained **10+ personal and academic web projects**, along with websites made for personal contacts and freelance work.
 
-**I build.**
+I learn best by actually building things.
 
 ---
 
 ## What I Build
 
-I mostly work on web applications that involve real functionality instead of just static pages.
-
-Things I've worked with include:
-
-* Database driven applications
-* CRUD systems
-* Authentication and user management
-* Admin panels
-* Anonymous messaging
-* API integrations
-* Responsive interfaces
-* File and image handling
-* Search and filtering
-* Analytics
-* Custom CMS systems
-* Deployment
-* PHP and MySQL backends
+```text
+Web Applications
+Database Driven Systems
+CRUD Applications
+Admin Panels
+API Integrations
+Responsive Websites
+Authentication & User Management
+File & Image Handling
+Search & Filtering
+Analytics
+Custom CMS Systems
+```
 
 ---
 
@@ -60,15 +44,13 @@ Things I've worked with include:
 
 ### Da Dev's Domain
 
-**Personal Portfolio / Developer Platform**
+**My personal developer platform and portfolio.**
 
-My personal developer platform and portfolio.
+A full stack web platform with a custom CMS, project management, GitHub API integration, visitor analytics, contact inbox, file management, search and filtering, and responsive UI.
 
-Built as a full stack web application with a custom CMS, project management, GitHub API integration, visitor analytics, contact inbox, file management, search and filtering, and responsive UI.
+**PHP · MySQL · JavaScript · HTML · CSS**
 
-**Stack:** PHP · MySQL · JavaScript · HTML · CSS
-
-[Visit the website](https://zacuia.gt.tc)
+[Live Website](https://zacuia.gt.tc)
 
 ---
 
@@ -76,13 +58,11 @@ Built as a full stack web application with a custom CMS, project management, Git
 
 **Anonymous Messaging Web Application**
 
-An anonymous messaging platform built around nickname based communication.
+A nickname based anonymous messaging platform with attachments, reporting, moderation, printable messages, and administrative controls.
 
-Features include attachments, reporting, moderation, printable messages, and administrative controls for users and messages.
+**PHP · MySQL · JavaScript · HTML · CSS**
 
-**Stack:** PHP · MySQL · JavaScript · HTML · CSS
-
-[Visit Unsaid](https://unsaid.gt.tc)
+[Live Website](https://unsaid.gt.tc)
 
 ---
 
@@ -90,13 +70,11 @@ Features include attachments, reporting, moderation, printable messages, and adm
 
 **AI Chatbot Web Application**
 
-An API based AI chatbot with a responsive chat interface.
+An API integrated AI chatbot built with PHP and JavaScript, featuring a responsive chat interface, theme support, code blocks, copy actions, chat controls, and loading states.
 
-Includes API integration, chat controls, code block support, copy actions, loading states, and theme support.
+**PHP · JavaScript · HTML · CSS · AI API**
 
-**Stack:** PHP · JavaScript · HTML · CSS · AI API
-
-[Visit NigAI](https://nigai.ct.ws/)
+[Live Website](https://nigai.ct.ws/)
 
 ---
 
@@ -104,13 +82,33 @@ Includes API integration, chat controls, code block support, copy actions, loadi
 
 **Vanilla JavaScript Image Gallery**
 
-A simple gallery project built because apparently looking at a folder full of images wasn't good enough.
+A lightweight gallery project built with vanilla JavaScript.
 
-Built with vanilla JavaScript with a focus on keeping the gallery practical and easy to use.
+Because apparently opening a folder full of images wasn't good enough.
 
-**Stack:** JavaScript · HTML · CSS
+**JavaScript · HTML · CSS**
 
-[View repository](https://github.com/LilBuffy/Nigallery)
+[Repository](https://github.com/LilBuffy/Nigallery)
+
+---
+
+## Other Projects
+
+Some of the other things I've built:
+
+**Weather Weather Lang**
+Weather dashboard powered by Open Meteo and Vanilla JavaScript.
+
+**Zound**
+Local music player for playing your own music without ads or subscriptions.
+
+**AMW**
+An experimental anonymous messaging project.
+
+**Kapebilidad**
+A PHP cafe ordering system that somehow became an entire web application.
+
+[View all repositories](https://github.com/LilBuffy?tab=repositories)
 
 ---
 
@@ -125,14 +123,8 @@ Built with vanilla JavaScript with a focus on keeping the gallery practical and 
 
 ### Backend & Database
 
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PDO](https://img.shields.io/badge/PDO-Database%20Access-777BB4?style=flat-square)
-
-### Currently Learning
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%20PDO-777BB4?style=flat-square\&logo=php\&logoColor=white)
 
 ### Tools
 
@@ -140,11 +132,14 @@ Built with vanilla JavaScript with a focus on keeping the gallery practical and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square\&logo=xampp\&logoColor=white)
 
+### Learning
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
 ---
 
 ## Currently Learning
-
-I'm currently focusing on improving the fundamentals instead of trying to learn every technology known to mankind.
 
 ```text
 Laravel
@@ -156,9 +151,9 @@ Git & GitHub
 Modern Web Development
 ```
 
-The goal is simple:
+The goal isn't to collect technologies.
 
-**Write better code, build better applications, understand what I'm actually doing.**
+It's to understand them well enough to build something useful.
 
 ---
 
@@ -168,7 +163,7 @@ The goal is simple:
 
 Built and delivered websites for personal contacts based on their requirements.
 
-Worked across:
+Handled:
 
 ```text
 Planning
@@ -186,61 +181,26 @@ Built and maintained **10+ personal and academic web projects**, including datab
 
 ---
 
-## Development Philosophy
+## GitHub Stats
 
-I don't want to become the guy who knows 47 frameworks but can't build a working application without Stack Overflow.
-
-My current approach is:
-
-```text
-Learn
-↓
-Build
-↓
-Break
-↓
-Debug
-↓
-Understand
-↓
-Improve
-↓
-Build again
-```
-
-I care more about understanding how things work than collecting technologies for a resume.
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilBuffy\&show_icons=true\&hide_border=true\&theme=transparent)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilBuffy\&show_icons=true\&hide_border=true\&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilBuffy\&layout=compact\&hide_border=true\&theme=transparent)
 
 ---
 
-## Let's Connect
+## Find Me
 
 **Portfolio**
-
 https://zacuia.gt.tc
 
 **GitHub**
-
 https://github.com/LilBuffy
 
 ---
 
-### One commit at a time.
-
 ```text
-while (alive) {
-    learn();
-    build();
-    breakSomething();
-    debug();
-}
+learn → build → break → debug → improve → repeat
 ```
 
-**Currently building my way into becoming a better web developer.**
+### Building my way into becoming a better web developer.
