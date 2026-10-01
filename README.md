@@ -116,6 +116,14 @@ Because apparently opening a folder full of images wasn't good enough.
 
 Some of the other things I've built:
 
+**Basta Masarap v2**
+
+Still fucking Basta Masarap pero v2 na my nig-
+
+<img src="./assets/bastamasarap.png" width="90%">
+
+---
+
 **Weather Weather Lang**
 
 Weather dashboard powered by Open Meteo and Vanilla JavaScript.
@@ -145,8 +153,6 @@ An experimental anonymous messaging project.
 A PHP cafe ordering system that somehow became an entire web application.
 
 <img src="./assets/kapebilidad.png" width="90%">
-
----
 
 [View all repositories](https://github.com/LilBuffy?tab=repositories)
 
