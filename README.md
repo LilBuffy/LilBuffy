@@ -197,6 +197,8 @@ Built and maintained **10+ personal and academic web projects**, including datab
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LilBuffy&layout=compact&hide_border=true&theme=transparent)
 
+---
+
 ## Find Me
 
 **Portfolio**
@@ -211,4 +213,4 @@ https://github.com/LilBuffy
 learn → build → break → debug → improve → repeat
 ```
 
-### Building my way into becoming a better web developer.
+### Learning shit, breaking shit, and getting better at web development.
