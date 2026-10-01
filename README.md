@@ -1,4 +1,4 @@
-# David Zamora
+# John David Zamora
 
 ### Junior Web Developer · BSIT Student
 
