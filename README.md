@@ -230,8 +230,8 @@ Built and maintained **10+ personal and academic web projects**, including datab
 **Portfolio**
 https://zacuia.gt.tc
 
-**GitHub**
-https://github.com/LilBuffy
+**ВКонтакте**
+https://vk.ru/zacuia
 
 ---
 
@@ -239,4 +239,4 @@ https://github.com/LilBuffy
 learn → build → break → debug → improve → repeat
 ```
 
-### Learning shit, breaking shit, and getting better at web development.
+### Learning shit, breaking shit, and getting better at web development. If you are reading this... I'm so proud of you.
