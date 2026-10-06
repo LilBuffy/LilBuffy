@@ -58,7 +58,7 @@ Custom CMS Systems
 
 **My personal developer platform and portfolio.**
 
-<img src="./assets/dadevdomainv2.png" width="95%">
+<img src="./assets/dadevdomainv3.png" width="95%">
 
 A full stack web platform with a custom CMS, project management, GitHub API integration, visitor analytics, contact inbox, file management, search and filtering, and responsive UI.
 
@@ -72,7 +72,7 @@ A full stack web platform with a custom CMS, project management, GitHub API inte
 
 **Anonymous Messaging Web Application**
 
-<img src="./assets/unsaidv2.png" width="95%">
+<img src="./assets/unsaidv3.png" width="95%">
 
 A nickname based anonymous messaging platform with attachments, reporting, moderation, printable messages, and administrative controls.
 
@@ -86,7 +86,7 @@ A nickname based anonymous messaging platform with attachments, reporting, moder
 
 **AI Chatbot Web Application**
 
-<img src="./assets/nigai.png" width="95%">
+<img src="./assets/nigaiv3.png" width="95%">
 
 An API integrated AI chatbot built with PHP and JavaScript, featuring a responsive chat interface, theme support, code blocks, copy actions, chat controls, and loading states.
 
