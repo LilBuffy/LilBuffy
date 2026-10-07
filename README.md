@@ -114,6 +114,14 @@ A fucking PHP cafe ordering system where one coffee somehow became an entire web
 
 Some of the other things I've built:
 
+**Basta Masarap v2**
+
+Still fucking Basta Masarap pero v2 na my nig-
+
+<img src="./assets/bstamasarap.png" width="100%">
+
+---
+
 **Zound**
 
 Local music player for playing your own music without ads or subscriptions.
@@ -127,14 +135,6 @@ Local music player for playing your own music without ads or subscriptions.
 **Vanilla JavaScript Image Gallery**
 
 <img src="./assets/nigallery.png" width="100%">
-
----
-
-**Basta Masarap v2**
-
-Still fucking Basta Masarap pero v2 na my nig-
-
-<img src="./assets/bastamasarap.png" width="100%">
 
 ---
 
