@@ -96,19 +96,17 @@ An API integrated AI chatbot built with PHP and JavaScript, featuring a responsi
 
 ---
 
-### Nigallery
+**Kapebilidad**
 
-**Vanilla JavaScript Image Gallery**
+A PHP cafe ordering system that somehow became an entire web application.
 
-<img src="./assets/nigallery.png" width="100%">
+<img src="./assets/kapebilidadv3.png" width="100%">
 
-A lightweight gallery project built with vanilla JavaScript.
+A fucking PHP cafe ordering system where one coffee somehow became an entire web application.
 
-Because apparently opening a folder full of images wasn't good enough.
+**PHP · MySQL · JavaScript · HTML · CSS**
 
-**JavaScript · HTML · CSS**
-
-[Live Website](https://lilbuffy.github.io/Nigallery/)
+[View all repositories](https://github.com/LilBuffy?tab=repositories)
 
 ---
 
@@ -121,6 +119,14 @@ Some of the other things I've built:
 Local music player for playing your own music without ads or subscriptions.
 
 <img src="./assets/zound.png" width="100%">
+
+---
+
+### Nigallery
+
+**Vanilla JavaScript Image Gallery**
+
+<img src="./assets/nigallery.png" width="100%">
 
 ---
 
@@ -137,16 +143,6 @@ Still fucking Basta Masarap pero v2 na my nig-
 An experimental anonymous messaging project.
 
 <img src="./assets/amw.png" width="100%">
-
----
-
-**Kapebilidad**
-
-A PHP cafe ordering system that somehow became an entire web application.
-
-<img src="./assets/kapebilidad.png" width="100%">
-
-[View all repositories](https://github.com/LilBuffy?tab=repositories)
 
 ---
 
