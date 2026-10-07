@@ -122,6 +122,14 @@ Still fucking Basta Masarap pero v2 na my nig-
 
 ---
 
+**Novabank**
+
+I made a fake bank in PHP because FUCK YOU that's why
+
+<img src="./assets/novabank.png" width="100%">
+
+---
+
 **Zound**
 
 Local music player for playing your own music without ads or subscriptions.
@@ -135,14 +143,6 @@ Local music player for playing your own music without ads or subscriptions.
 **Vanilla JavaScript Image Gallery**
 
 <img src="./assets/nigallery.png" width="100%">
-
----
-
-**AMW**
-
-An experimental anonymous messaging project.
-
-<img src="./assets/amw.png" width="100%">
 
 ---
 
