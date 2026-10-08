@@ -126,7 +126,7 @@ Some of the other things I've built:
 
 Still fucking Basta Masarap pero v2 na my nig-
 
-<img src="./assets/bstamasarapv2.png" width="100%">
+<img src="./assets/bastamasarapv2.png" width="100%">
 
 ---
 
