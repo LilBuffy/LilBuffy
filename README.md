@@ -110,23 +110,23 @@ A fucking PHP cafe ordering system where one coffee somehow became an entire web
 
 ---
 
-## Other Projects
-
-Some of the other things I've built:
-
-**Basta Masarap v2**
-
-Still fucking Basta Masarap pero v2 na my nig-
-
-<img src="./assets/bstamasarap.png" width="100%">
-
----
-
 **Novabank**
 
 I made a fake bank in PHP because FUCK YOU that's why
 
 <img src="./assets/novabank.png" width="100%">
+
+---
+
+## Other Projects
+
+Some of the other things I've built:
+
+**Basta Masarap**
+
+Still fucking Basta Masarap pero v2 na my nig-
+
+<img src="./assets/bstamasarapv2.png" width="100%">
 
 ---
 
