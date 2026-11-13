@@ -102,6 +102,8 @@ A fucking PHP cafe ordering system where one coffee somehow became an entire web
 
 **PHP · MySQL · JavaScript · HTML · CSS**
 
+[Live Website](https://kapebilidad.ct.ws)
+
 ---
 
 ### Novabank
@@ -111,6 +113,8 @@ I made a fake bank in PHP because FUCK YOU that's why.
 <img src="./assets/novabank.png" width="100%">
 
 **PHP · MySQL · JavaScript · HTML · CSS**
+
+[Live Website](https://creations.mtdv.me/novabank)
 
 ---
 
@@ -122,6 +126,8 @@ I made this because fuck youuuuu hahahah and why not?
 
 **PHP · MySQL · JavaScript · HTML · CSS**
 
+[Live Website](https://notzacuia.likesyou.org)
+
 ---
 
 ### Zound
@@ -132,6 +138,8 @@ A fucking local music player for your own music, without ads or subscriptions.
 
 **HTML · CSS · JavaScript**
 
+[Live Website](https://lilbuffy.github.io/Zound/)
+
 ---
 
 ### Nigallery
@@ -141,6 +149,8 @@ I got tired of looking at a fucking folder, so I made a whole gallery for it.
 <img src="./assets/nigallery.png" width="100%">
 
 **HTML · CSS · JavaScript**
+
+[Live Website](https://lilbuffy.github.io/Nigallery/)
 
 ---
 
