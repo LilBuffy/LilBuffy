@@ -58,9 +58,9 @@ Custom CMS Systems
 
 **My personal developer platform and portfolio.**
 
-<img src="./assets/zacuia.png" width="100%">
-
 MY MAIN PROJECT/BUILD. A fucking ultimate full stack web platform with a custom CMS, project management, GitHub API integration, visitor analytics, contact inbox, file management, search and filtering, and responsive UI.
+
+<img src="./assets/zacuia.png" width="100%">
 
 **PHP · MySQL · JavaScript · HTML · CSS**
 
@@ -103,8 +103,6 @@ A fucking PHP cafe ordering system where one coffee somehow became an entire web
 <img src="./assets/kapebilidad.png" width="100%">
 
 **PHP · MySQL · JavaScript · HTML · CSS**
-
-[View all repositories](https://github.com/LilBuffy?tab=repositories)
 
 ---
 
