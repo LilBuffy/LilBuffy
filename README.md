@@ -84,9 +84,7 @@ An anonymous PHP messaging system where people say shit they would never say out
 
 ### NigAI
 
-**NigAI**
-
-A fucking AI chatbot built with PHP, JavaScript, and an external AI API.
+A fucking AI ch atbot built with PHP, JavaScript, and an external AI API.
 
 <img src="./assets/nigai.png" width="100%">
 
@@ -96,7 +94,7 @@ A fucking AI chatbot built with PHP, JavaScript, and an external AI API.
 
 ---
 
-**Kapebilidad**
+### Kapebilidad
 
 A fucking PHP cafe ordering system where one coffee somehow became an entire web application.
 
@@ -106,7 +104,7 @@ A fucking PHP cafe ordering system where one coffee somehow became an entire web
 
 ---
 
-**Novabank**
+### Novabank
 
 I made a fake bank in PHP because FUCK YOU that's why.
 
@@ -114,11 +112,7 @@ I made a fake bank in PHP because FUCK YOU that's why.
 
 ---
 
-## Other Projects
-
-Some of the other things I've built:
-
-**AMW**
+### AMW
 
 I made this because fuck youuuuu hahahah and why not?
 
@@ -126,7 +120,7 @@ I made this because fuck youuuuu hahahah and why not?
 
 ---
 
-**Zound**
+### Zound
 
 A fucking local music player for your own music, without ads or subscriptions.
 
@@ -134,7 +128,7 @@ A fucking local music player for your own music, without ads or subscriptions.
 
 ---
 
-**Nigallery**
+### Nigallery
 
 I got tired of looking at a fucking folder, so I made a whole gallery for it.
 
