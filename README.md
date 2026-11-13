@@ -110,6 +110,8 @@ I made a fake bank in PHP because FUCK YOU that's why.
 
 <img src="./assets/novabank.png" width="100%">
 
+**PHP · MySQL · JavaScript · HTML · CSS**
+
 ---
 
 ### AMW
@@ -117,6 +119,8 @@ I made a fake bank in PHP because FUCK YOU that's why.
 I made this because fuck youuuuu hahahah and why not?
 
 <img src="./assets/amw.png" width="100%">
+
+**PHP · MySQL · JavaScript · HTML · CSS**
 
 ---
 
@@ -126,6 +130,8 @@ A fucking local music player for your own music, without ads or subscriptions.
 
 <img src="./assets/zound.png" width="100%">
 
+**HTML · CSS · JavaScript**
+
 ---
 
 ### Nigallery
@@ -133,6 +139,8 @@ A fucking local music player for your own music, without ads or subscriptions.
 I got tired of looking at a fucking folder, so I made a whole gallery for it.
 
 <img src="./assets/nigallery.png" width="100%">
+
+**HTML · CSS · JavaScript**
 
 ---
 
