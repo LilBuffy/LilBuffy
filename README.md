@@ -1,10 +1,12 @@
-# PHP-Focused Web Developer
+# PHP & Laravel Web Developer
 
 ### Junior Web Developer · 19 Year Old BSIT Student
 
-I build practical web applications, mostly with **PHP, MySQL, JavaScript, HTML, and CSS**.
+I build practical web applications using **PHP, Laravel, MySQL, JavaScript, and Tailwind CSS**.
 
-I started with simple websites, then somehow ended up building databases, admin panels, APIs, anonymous messaging systems, AI chatbots, galleries, and entire platforms.
+From database driven systems and custom admin panels to APIs, authentication systems, and full stack web applications, I enjoy turning ideas into functional software.
+
+Currently growing as a Laravel developer, improving my backend architecture, and exploring modern frontend development.
 
 Still learning. Still building. Still breaking shit.
 
@@ -13,48 +15,52 @@ Still learning. Still building. Still breaking shit.
 ## About Me
 
 ```text
-Age        19 Years Old
-Role       Junior Web Developer
-Education  2nd Year BSIT Student
-Location   Philippines
-Focus      Web Development
-Backend    PHP / MySQL
-Frontend   HTML / CSS / JavaScript
-Learning   Laravel / Tailwind CSS
-Tools      Git / GitHub / XAMPP
+Age          19 Years Old
+Role         Junior Web Developer
+Education    2nd Year BSIT Student
+Location     Philippines
+Specialty    PHP / Backend Web Development
+Framework    Laravel
+Frontend     HTML / CSS / JavaScript / Tailwind CSS
+Database     MySQL
+Tools        Git / GitHub / Composer / Herd
+Exploring    React
 ```
 
-I'm a 19 year old self taught Junior Web Developer and BSIT student from the Philippines.
+I'm a self taught Junior Web Developer and BSIT student from the Philippines.
 
-My main focus is **web development**, especially backend development with PHP and MySQL, while continuing to improve my frontend skills and overall application architecture.
+My primary focus is **PHP and Laravel development**, with an interest in building reliable, maintainable, and practical web applications.
 
-I've built and maintained **10+ personal and academic web projects**, along with websites made for personal contacts and freelance work.
+I've built and maintained **10+ personal and academic projects**, including full stack applications, database driven systems, custom CMS platforms, and API integrations.
 
-I learn best by actually building things.
+I enjoy understanding how things work behind the scenes, especially backend logic, database architecture, application structure, and server side development.
+
+I believe the best way to learn development is to actually build things.
 
 ---
 
 ## What I Build
 
 ```text
-Web Applications
-Database Driven Systems
+Full Stack Web Applications
+Backend Systems
+Database Driven Applications
 CRUD Applications
-Admin Panels
-API Integrations
-Responsive Websites
+REST API Integrations
 Authentication & User Management
-File & Image Handling
-Search & Filtering
-Analytics
+Admin Panels & Dashboards
 Custom CMS Systems
+File & Image Management
+Search & Filtering Systems
+Analytics & Reporting
+Responsive Web Interfaces
 ```
 
 ---
 
 ## Featured Projects
 
-### Da Dev's Domain
+### DaDevDomain
 
 **My personal developer platform and portfolio.**
 
@@ -84,17 +90,21 @@ An anonymous PHP messaging system where people say shit they would never say out
 
 ### NigAI
 
+**AI Powered Chatbot**
+
 A fucking AI ch atbot built with PHP, JavaScript, and an external AI API.
 
 <img src="./assets/nigai.png" width="100%">
 
-**PHP · JavaScript · HTML · CSS · AI API**
+**PHP · JavaScript · HTML · CSS · AI APIs**
 
 [Live Website](https://nigai.ct.ws/)
 
 ---
 
 ### Kapebilidad
+
+**Cafe Ordering System**
 
 A fucking PHP cafe ordering system where one coffee somehow became an entire web application.
 
@@ -107,6 +117,8 @@ A fucking PHP cafe ordering system where one coffee somehow became an entire web
 ---
 
 ### Novabank
+
+**Banking System Concept**
 
 I made a fake bank in PHP because FUCK YOU that's why.
 
@@ -132,6 +144,8 @@ I made this because fuck youuuuu hahahah and why not?
 
 ### Zound
 
+**Local Music Player**
+
 A fucking local music player for your own music, without ads or subscriptions.
 
 <img src="./assets/zound.png" width="100%">
@@ -143,6 +157,8 @@ A fucking local music player for your own music, without ads or subscriptions.
 ---
 
 ### Nigallery
+
+**Personal Gallery Application**
 
 I got tired of looking at a fucking folder, so I made a whole gallery for it.
 
@@ -163,37 +179,51 @@ I got tired of looking at a fucking folder, so I made a whole gallery for it.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend & Database
+### Backend & Frameworks
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP%20PDO-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Tools
+### Frontend
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-
-### Learning
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
-## Currently Learning
+## Currently Learning & Exploring
 
 ```text
-Laravel
+Laravel Development
 Tailwind CSS
-Web Security
-Better PHP Architecture
-Database Design
-Git & GitHub
-Modern Web Development
+PHP Architecture & Best Practices
+Database Design & Optimization
+Web Application Security
+REST API Development
+Git & GitHub Workflows
 ```
 
-The goal isn't to collect technologies. It's to understand them well enough to build something useful nganiiiiiiii.
+### What's Next?
+
+```text
+React.js
+Modern Frontend Development
+Advanced Laravel Concepts
+```
+
+My goal is to become a well rounded full stack developer with strong backend foundations and the ability to build modern, scalable web applications.
 
 ---
 
@@ -203,21 +233,22 @@ The goal isn't to collect technologies. It's to understand them well enough to b
 
 Built and delivered websites for personal contacts based on their requirements.
 
-Handled:
+Responsibilities included:
 
 ```text
-Planning
+Project Planning
 UI Design
-Feature Flow
+Feature Development
 Frontend Development
 Backend Development
 Database Integration
+Testing & Debugging
 Deployment
 ```
 
 ### Independent Web Developer
 
-Built and maintained **10+ personal and academic web projects**, including database driven applications, CRUD systems, and deployed web applications.
+Built and maintained **10+ personal and academic web projects**, gaining practical experience in PHP development, database management, application logic, API integration, and web deployment.
 
 ---
 
@@ -233,11 +264,11 @@ Built and maintained **10+ personal and academic web projects**, including datab
 
 **Portfolio**
 
-https://zacuia.gt.tc
+[https://zacuia.gt.tc](https://zacuia.gt.tc)
 
 **ВКонтакте**
 
-https://vk.ru/zacuia
+[https://vk.ru/zacuia](https://vk.ru/zacuia)
 
 ---
 
